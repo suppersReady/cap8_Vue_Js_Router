@@ -1,7 +1,7 @@
 # example netlify.toml
 [build]
   command = "vite build"
-  funxtions = "netlify/functions
+  funxtions = "netlify/functions"
   publish = "dist"
 
 [[redirects]]
