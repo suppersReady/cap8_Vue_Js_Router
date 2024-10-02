@@ -2,7 +2,7 @@
   command = "vite build"
   funxtions = "netlify/functions
   publish = "dist"
-
+  
 [[redirects]]
   from = "/*"
   to = "/index.html"
